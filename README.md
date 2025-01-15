@@ -15,3 +15,11 @@
 - [LangGraph](https://www.langchain.com/langgraph): LangGraph is an open-source orchestration framework designed to simplify the creation of complex AI workflows.
 - [CrewAI](https://www.crewai.com/): CrewAI is an open-source framework for multi-agent orchestration, enabling AI agents to collaborate on tasks through defined roles and shared goals.
 - [LlamaIndex](https://rasa.com/): LlamaIndex is an AI framework designed to streamline complex data integration and retrieval for AI agents.
+- [AutoGen](https://microsoft.github.io/autogen/stable/index.html): A framework for building AI agents and applications.
+
+## Paid platforms
+- [VectorShift](https://vectorshift.ai/): An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
+- [Flowiseai](https://flowiseai.com/): Open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
+- [Crewai](https://www.crewai.com/): The leading multi-agent platform.
+- [MindStudio](https://www.mindstudio.ai/): Rapidly build and deploy specialized AI Workers.
+
