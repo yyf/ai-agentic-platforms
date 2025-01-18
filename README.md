@@ -8,6 +8,7 @@
 - [ScarletPan/awesome-autonomous-gpt](https://github.com/ScarletPan/awesome-autonomous-gpt): A collection of awesome projects and resources related to autonomous ai agents.
 - [francedot/acu](https://github.com/francedot/acu): A curated list of resources about AI agents for Computer Use. 
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents): A comprehensive list of 1,500+ resources and tools related to AI agents.
+- [AiAgentDirectory](https://aiagentsdirectory.com/): AI agents directory. 
 
 ## Free platforms
 - [Botpress](https://botpress.com/): Botpress is an all-in-one platform for building AI agents powered by the latest LLMs.
