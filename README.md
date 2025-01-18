@@ -23,3 +23,6 @@
 - [Crewai](https://www.crewai.com/): The leading multi-agent platform.
 - [MindStudio](https://www.mindstudio.ai/): Rapidly build and deploy specialized AI Workers.
 
+## White papers
+- [Agents](https://www.kaggle.com/whitepaper-agents): Google's AI white paper “Agents”.
+
