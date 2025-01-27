@@ -26,4 +26,6 @@
 
 ## White papers
 - [Agents](https://www.kaggle.com/whitepaper-agents): Google's AI white paper “Agents”.
+- [LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey): A Survey on LLM-based Autonomous Agents.
+
 
