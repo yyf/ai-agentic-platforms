@@ -9,7 +9,7 @@
 - [francedot/acu](https://github.com/francedot/acu): A curated list of resources about AI agents for Computer Use. 
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents): A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [AiAgentDirectory](https://aiagentsdirectory.com/): AI agents directory. 
-- [AwesomeLLMApps](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 ## Free platforms
 - [Botpress](https://botpress.com/): Botpress is an all-in-one platform for building AI agents powered by the latest LLMs.
