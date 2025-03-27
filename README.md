@@ -18,6 +18,12 @@
 - [CrewAI](https://www.crewai.com/): CrewAI is an open-source framework for multi-agent orchestration, enabling AI agents to collaborate on tasks through defined roles and shared goals.
 - [LlamaIndex](https://rasa.com/): LlamaIndex is an AI framework designed to streamline complex data integration and retrieval for AI agents.
 - [AutoGen](https://microsoft.github.io/autogen/stable/index.html): A framework for building AI agents and applications.
+- [Dify](https://github.com/langgenius/dify): Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [LangFlow](https://github.com/langflow-ai/langflow): Langflow is a powerful tool for building and deploying AI-powered agents and workflows
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [Anything-LLM](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more
+- [AgentGPT](https://github.com/reworkd/AgentGPT): Assemble, configure, and deploy autonomous AI Agents in your browser
 
 ## Paid platforms
 - [VectorShift](https://vectorshift.ai/): An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
