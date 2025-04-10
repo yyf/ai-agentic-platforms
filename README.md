@@ -35,4 +35,8 @@
 - [Agents](https://www.kaggle.com/whitepaper-agents): Google's AI white paper “Agents”.
 - [LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey): A Survey on LLM-based Autonomous Agents.
 
+## Protocols
+- [MCP](https://modelcontextprotocol.io/introduction): MCP is an open protocol that standardizes how applications provide context to LLMs.
+- [A2A](https://github.com/google/A2A): An open protocol enabling communication and interoperability between opaque agentic applications.
+
 
