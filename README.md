@@ -30,6 +30,10 @@
 - [Flowiseai](https://flowiseai.com/): Open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
 - [Crewai](https://www.crewai.com/): The leading multi-agent platform.
 - [MindStudio](https://www.mindstudio.ai/): Rapidly build and deploy specialized AI Workers.
+- [OpenAI-Agents](https://openai.com/index/new-tools-for-building-agents/): OpenAI Agents SDK and New APIs
+- [Azure-AI-Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/): The agent factory - Design, customize, manage, and support AI applications and agents at scale.
+- [Google-Vertex](https://cloud.google.com/products/agent-builder?hl=en): Google Vertex AI Agent Builder & Agent Development Kit (ADK).
+- [Amazon-Bedrock-Agents](https://aws.amazon.com/bedrock/agents/): Enable generative AI applications to automate multistep tasks by seamlessly connecting with company systems, APIs, and data sources. 
 
 ## White papers
 - [Agents](https://www.kaggle.com/whitepaper-agents): Google's AI white paper “Agents”.
