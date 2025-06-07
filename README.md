@@ -42,5 +42,6 @@
 ## Protocols
 - [MCP](https://modelcontextprotocol.io/introduction): MCP is an open protocol that standardizes how applications provide context to LLMs.
 - [A2A](https://github.com/google/A2A): An open protocol enabling communication and interoperability between opaque agentic applications.
+- [ACP](https://github.com/i-am-bee/acp): Framework-agnostic agent communication. Unified by design.
 
 
