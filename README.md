@@ -38,6 +38,7 @@
 ## White papers
 - [Agents](https://www.kaggle.com/whitepaper-agents): Google's AI white paper “Agents”.
 - [LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey): A Survey on LLM-based Autonomous Agents.
+- [LRM-limitations](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf): Apple's take on the strengths and limitations of LRMs (Large Reasoning Models)
 
 ## Protocols
 - [MCP](https://modelcontextprotocol.io/introduction): MCP is an open protocol that standardizes how applications provide context to LLMs.
