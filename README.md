@@ -38,6 +38,8 @@
 - [Azure-AI-Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/): The agent factory - Design, customize, manage, and support AI applications and agents at scale.
 - [Google-Vertex](https://cloud.google.com/products/agent-builder?hl=en): Google Vertex AI Agent Builder & Agent Development Kit (ADK).
 - [Amazon-Bedrock-Agents](https://aws.amazon.com/bedrock/agents/): Enable generative AI applications to automate multistep tasks by seamlessly connecting with company systems, APIs, and data sources. 
+- [Microsoft-Semantic-Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/): Semantic Kernel is a lightweight, open-source development kit that lets you easily build AI agents and integrate the latest AI models into your C#, Python, or Java codebase. 
+- [Google-ADK](https://google.github.io/adk-docs/): Agent Development Kit (ADK) is a flexible and modular framework for developing and deploying AI agents. 
 
 ## White papers
 - [Agents](https://www.kaggle.com/whitepaper-agents): Google's AI white paper “Agents”.
