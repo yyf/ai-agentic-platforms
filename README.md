@@ -1,4 +1,4 @@
-# ai-agentic-platforms
+# A list of AI agents, tools, protocols, and platforms
 
 ## A list of lists of AI agents 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents. 
@@ -24,6 +24,10 @@
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [Anything-LLM](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more
 - [AgentGPT](https://github.com/reworkd/AgentGPT): Assemble, configure, and deploy autonomous AI Agents in your browser
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [SuperAgent](https://github.com/superagent-ai/superagent): Run AI-agents with an API
+- [Camel](https://github.com/camel-ai/camel): The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+- [Swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 
 ## Paid platforms
 - [VectorShift](https://vectorshift.ai/): An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
