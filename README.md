@@ -1,6 +1,6 @@
-# A list of AI agents, tools, protocols, and platforms
+# A list of AI agents, tools, protocols, papers, and platforms
 
-## A list of lists of AI agents 
+## A list of lists of AI agents, LLM apps, and MCP servers 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents. 
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents): A curated list of open source AI agents.
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents): A list of top AI agents.
@@ -10,6 +10,7 @@
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents): A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [AiAgentDirectory](https://aiagentsdirectory.com/): AI agents directory. 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
 
 ## Free platforms
 - [Botpress](https://botpress.com/): Botpress is an all-in-one platform for building AI agents powered by the latest LLMs.
@@ -41,7 +42,7 @@
 - [Microsoft-Semantic-Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/): Semantic Kernel is a lightweight, open-source development kit that lets you easily build AI agents and integrate the latest AI models into your C#, Python, or Java codebase. 
 - [Google-ADK](https://google.github.io/adk-docs/): Agent Development Kit (ADK) is a flexible and modular framework for developing and deploying AI agents. 
 
-## White papers
+## Papers
 - [Agents](https://www.kaggle.com/whitepaper-agents): Google's AI white paper “Agents”.
 - [LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey): A Survey on LLM-based Autonomous Agents.
 - [LRM-limitations](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf): Apple's take on the strengths and limitations of LRMs (Large Reasoning Models)
