@@ -10,7 +10,8 @@
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents): A comprehensive list of 1,500+ resources and tools related to AI agents.
 - [AiAgentDirectory](https://aiagentsdirectory.com/): AI agents directory. 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries.
 
 ## Free platforms
 - [Botpress](https://botpress.com/): Botpress is an all-in-one platform for building AI agents powered by the latest LLMs.
