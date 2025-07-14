@@ -53,4 +53,10 @@
 - [A2A](https://github.com/google/A2A): An open protocol enabling communication and interoperability between opaque agentic applications.
 - [ACP](https://github.com/i-am-bee/acp): Framework-agnostic agent communication. Unified by design.
 
+## Agent Marketplace
+- [AiAgentsDirectory](https://aiagentsdirectory.com/): Ai Agents Directory
+
+## Agent Browser
+- [Perplexity](https://comet.perplexity.ai/): Comet from Perplexity
+
 
