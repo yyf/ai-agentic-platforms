@@ -1,4 +1,4 @@
-# A list of AI agents, tools, protocols, papers, and platforms
+# A list of AI agents, tools, protocols, papers, platforms, and model leaderboards
 
 ## A list of lists of AI agents, LLM apps, and MCP servers 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents. 
@@ -30,7 +30,7 @@
 - [SuperAgent](https://github.com/superagent-ai/superagent): Run AI-agents with an API
 - [Camel](https://github.com/camel-ai/camel): The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [Swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [Fast-agent](Define, Prompt and Test MCP enabled Agents and Workflows): Define, Prompt and Test MCP enabled Agents and Workflows
+- [Fast-agent](Define, Prompt and Test MCP enabled Agents and Workflows): Define, Prompt and Test MCP enabled Agents and Workflow
 
 ## Paid platforms
 - [VectorShift](https://vectorshift.ai/): An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
@@ -59,5 +59,8 @@
 
 ## Agent Browser
 - [Perplexity](https://comet.perplexity.ai/): Comet from Perplexity
+
+## Model Leaderboards
+- [LMArena](https://lmarena.ai/leaderboard): See how leading models stack up across text, image, vision, and beyond. 
 
 
