@@ -1,4 +1,4 @@
-# A list of AI agents, tools, protocols, papers, platforms, and model leaderboards
+# A list of AI agents, tools, protocols, papers, courses, platforms, and model leaderboards
 
 ## A list of lists of AI agents, LLM apps, and MCP servers 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents. 
@@ -62,5 +62,8 @@
 
 ## Model Leaderboards
 - [LMArena](https://lmarena.ai/leaderboard): See how leading models stack up across text, image, vision, and beyond. 
+
+## Courses
+- [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): 11 Lessons to Get Started Building AI Agents
 
 
