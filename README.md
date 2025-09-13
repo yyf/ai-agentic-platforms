@@ -66,4 +66,7 @@
 ## Courses
 - [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): 11 Lessons to Get Started Building AI Agents
 
+## Agent Training
+- [ART](https://github.com/OpenPipe/ART): Agent Reinforcement Trainer. Train multi-step agents for real-world tasks using GRPO. 
+
 
