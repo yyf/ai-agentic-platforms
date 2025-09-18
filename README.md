@@ -69,4 +69,5 @@
 ## Agent Training
 - [ART](https://github.com/OpenPipe/ART): Agent Reinforcement Trainer. Train multi-step agents for real-world tasks using GRPO. 
 
-
+## MCP Registry
+- [Github-MCP-Registry](https://github.com/mcp): Servers and tools from the community that connect models to files, APIs, databases, and more.
