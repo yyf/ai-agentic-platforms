@@ -71,3 +71,6 @@
 
 ## MCP Registry
 - [Github-MCP-Registry](https://github.com/mcp): Servers and tools from the community that connect models to files, APIs, databases, and more.
+
+## Agenitc Design Patterns
+- [Agentic-Design-Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?pli=1&tab=t.0#heading=h.pxcur8v2qagu): A Hands-On Guide to Building Intelligent Systems, Antonio Gulli
