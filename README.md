@@ -1,4 +1,4 @@
-# A curated list of everyting about AI agent 
+# A curated list of everything about AI agent 
 
 ## A list of lists of AI agents, LLM apps, and MCP servers 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents. 
