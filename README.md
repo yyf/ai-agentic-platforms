@@ -75,3 +75,6 @@
 
 ## Agenitc Design Patterns
 - [Agentic-Design-Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?pli=1&tab=t.0#heading=h.pxcur8v2qagu): A Hands-On Guide to Building Intelligent Systems, Antonio Gulli
+
+## MCP DevTools
+- [Google-MCP-DevTools](https://developer.chrome.com/blog/chrome-devtools-mcp): Chrome DevTools (MCP) for your AI agent
