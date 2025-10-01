@@ -78,3 +78,6 @@
 
 ## MCP DevTools
 - [Google-MCP-DevTools](https://developer.chrome.com/blog/chrome-devtools-mcp): Chrome DevTools (MCP) for your AI agent
+
+## Security
+- [deepsecure](https://github.com/DeepTrail/deepsecure): Effortlessly secure your AI agents and AI-powered workflows
