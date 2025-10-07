@@ -81,3 +81,4 @@
 
 ## Security
 - [deepsecure](https://github.com/DeepTrail/deepsecure): Effortlessly secure your AI agents and AI-powered workflows
+- [CodeMender](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/): Google's AI agent for code security
