@@ -86,3 +86,10 @@
 
 ## Skills
 - [Anthropic](https://www.anthropic.com/news/skills): Claude can now use Skills to improve how it performs specific tasks.
+
+## Virtual scientist/researcher
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+- [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 
+- [virtual-lab](https://github.com/zou-group/virtual-lab): A virtual lab of LLM agents for science research
+- [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
+- [Virtual-Scientists](https://github.com/open-sciencelab/Virtual-Scientists): Multi-Agent System for Science of Science
