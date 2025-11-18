@@ -93,3 +93,4 @@
 - [virtual-lab](https://github.com/zou-group/virtual-lab): A virtual lab of LLM agents for science research
 - [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 - [Virtual-Scientists](https://github.com/open-sciencelab/Virtual-Scientists): Multi-Agent System for Science of Science
+- [Kosmos](https://github.com/EdisonScientific/kosmos-figures): Kosmos technical report figures, validation code, and reproducible analyses
